@@ -1,2 +1,2 @@
 # Resume
-Link : [Resume](!resume.pdf)
+Link : ![Resume](resume.pdf)
